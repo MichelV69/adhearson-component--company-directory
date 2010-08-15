@@ -49,3 +49,4 @@
 	(3) Any questions or problems?  Contact the author at the above email,
  or via the Adhearsion IRC channel (irc.freenode.net #adhearsion)
  
+ Updated for commit to AHNHUB consumption on 15 Aug 2010 @ Adhearsion Conf 2010
