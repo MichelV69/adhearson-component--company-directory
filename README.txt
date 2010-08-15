@@ -50,3 +50,4 @@
  or via the Adhearsion IRC channel (irc.freenode.net #adhearsion)
  
  Updated for commit to AHNHUB consumption on 15 Aug 2010 @ Adhearsion Conf 2010
+ 
